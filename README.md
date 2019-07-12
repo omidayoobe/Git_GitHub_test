@@ -13,9 +13,9 @@
     2) Create a repo
 
 ### Add a remote connection
-  - copy the "Add remote (..)" line
-  - run the add remote line in our terminal
+  1) copy the "Add remote (..)" line
+  2) run the add remote line in our terminal
 
 ### Push to Github
-  - Git push <Destination> <Branch>
-  - $ Git push origin master
+  1) Git push <Destination> <Branch>
+  2) $ Git push origin master
