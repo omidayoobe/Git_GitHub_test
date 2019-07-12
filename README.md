@@ -1,9 +1,9 @@
-#README
+# README
 ## To do
 - make a README.md files
 
 
-#How to Git/Github?
+# How to Git/Github?
 - Track you files with Git
     1) $ git add.
     2) $ git commit -m 'meaningful message for future reference'
